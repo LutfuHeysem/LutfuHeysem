@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am Lütfü Heysem, currently a freshman at the Bilkent University. I am majoring in Computer Science.
 <!--
 **LutfuHeysem/LutfuHeysem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
